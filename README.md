@@ -1,4 +1,4 @@
-# Local AI for macOS
+# Local AI with Docker
 
 This project sets up a simple local AI environment with Docker.
 
