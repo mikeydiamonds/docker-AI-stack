@@ -31,9 +31,9 @@ You should now have access to the Open Web UI running locally on your Mac.
 
 ## Additional Information
 
-- (**Open WebUI**)[https://docs.openwebui.com/] does have authentication built in but I have disabled the feature for this local only project. To enable, just remove `- WEBUI_AUTH=false` from `compose.yml`.
-- (**Traefik**)[https://traefik.io/] is used as a reverse proxy to manage routing for the Open Web UI and SearXNG.
-- (**SearXNG**)[https://github.com/searxng/searxng] is configured for web searches and integrated with the Open Web UI.
+- [**Open WebUI**](https://docs.openwebui.com/) does have authentication built in but I have disabled the feature for this local only project. To enable, just remove `- WEBUI_AUTH=false` from `compose.yml`.
+- [**Traefik**](https://traefik.io/) is used as a reverse proxy to manage routing for the Open Web UI and SearXNG.
+- [**SearXNG**](https://github.com/searxng/searxng) is configured for web searches and integrated with the Open Web UI.
 
 If you encounter any issues, refer to the documentation of the respective tools or the project's GitHub issues page for troubleshooting.
 
