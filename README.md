@@ -1,6 +1,6 @@
 # Local AI with Docker
 
-This project sets up a simple local AI environment with Docker.
+This project sets up a simple local (CPU only) AI environment with Docker.
 
 ## Prerequisites
 
